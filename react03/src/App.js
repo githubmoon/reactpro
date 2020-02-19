@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          编辑 <code>src/App.js</code> 现在时间17:01分
+          编辑 <code>中国加油，武汉加油</code> 现在时间17:01分
         </p>
         <a
           className="App-link"
